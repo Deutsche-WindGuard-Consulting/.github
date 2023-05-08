@@ -9,10 +9,9 @@ Dieser zentrale Gedanke  bewegte die Gründer der Deutschen WindGuard, Dr. Knud 
 Heute bietet die Deutsche WindGuard weltweit Investoren und Planern, Herstellern sowie Entscheidungsträgern aus Politik und Gesellschaft umfangreiche und unabhängige Expertise zu allen Facetten der Windenergie. Mit rund 180 Experten im Hauptquartier in Varel sowie an Standorten in Bremerhaven, Elsfleth, Norden, Gelnhausen und Berlin sowie in den USA, Indien und China bietet die Deutsche WindGuard als mittelständisches, inhabergeführtes Unternehmen über 40 Dienstleistungen. Die außergewöhnlichen Synergien zwischen den Fachabteilungen kombiniert mit dem weltweiten Aktionsfeld ermöglichen WindGuard einen einzigartigen Marktüberblick.
 
 Mit weltweit anerkannten Akkreditierungen schaffen wir Sicherheit und Objektivität bei der Bewertung sämtlicher projektrelevanter Daten. Unser ganzheitliches Dienstleistungsuniversum unterstützt verlässlich ihre Projekte entlang der gesamten Wertschöpfungskette der Windenergie von der ersten Machbarkeitsstudie bis zum Rückbau.  Wir bringen Ihre Projekte sicher an den Start und gewährleisten einen optimalen Betrieb über viele Jahre – Onshore. Offshore. Worldwide.
-  
-
-
-
+\
+\
+\
 **Deutsche WindGuard GmbH**
 
 Oldenburger Straße 65 A  
