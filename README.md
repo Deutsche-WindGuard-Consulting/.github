@@ -1,4 +1,4 @@
-
+![P+P logo](https://github.com/Poppe-Potthoff-Maschinenbau-GmbH/.github/blob/main/PP_Maschinenbau_GmbH_01.jpg?raw=true)
 ### Wind ist – neben Sonne – die einzige Energiequelle, für die man schon heute den Preis der nächsten Jahre, Jahrzehnte, Jahrhunderte vorhersagen kann:  
 **Sie kostet nichts.**
 
