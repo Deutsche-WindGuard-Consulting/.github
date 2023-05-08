@@ -1,5 +1,7 @@
-![P+P logo](https://github.com/Deutsche-WindGuard-Consulting/.github/blob/main/WindGuard_Varel.jpg?raw=true)
-![P+P logo](https://github.com/Deutsche-WindGuard-Consulting/.github/blob/main/WindGuard_Varel.jpg?raw=true)
+![WindGuard logo](https://github.com/Deutsche-WindGuard-Consulting/.github/blob/main/Logo_Deutsche%20WindGuard_RGB_20cm_360dpi.png?raw=true)  
+\
+\
+![Bild](https://github.com/Deutsche-WindGuard-Consulting/.github/blob/main/WindGuard_Varel.jpg?raw=true)
 
 ### Wind ist – neben Sonne – die einzige Energiequelle, für die man schon heute den Preis der nächsten Jahre, Jahrzehnte, Jahrhunderte vorhersagen kann:  
 **Sie kostet nichts.**
